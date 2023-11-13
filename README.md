@@ -13,3 +13,7 @@
 Пример отправки команды "type "C:/1/text.txt"" и получение ответа на удалённой машине.
 
 ![4](https://github.com/Naulex/CmdShell/assets/148938265/92b2b9d6-c9fc-4084-91ef-ed1ffbba0c0f)
+
+Процесс работы программы смотрите в демонстрационном ролике:
+
+https://drive.google.com/file/d/1wcbU5TEL-1wZI5AX4Am2v0zjv4l1lK7F
